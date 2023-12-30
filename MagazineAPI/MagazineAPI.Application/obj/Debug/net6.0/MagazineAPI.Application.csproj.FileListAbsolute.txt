@@ -1,0 +1,17 @@
+C:\Users\user\Documents\Personal Projects\MagazineAPI\MagazineAPI.Application\bin\Debug\net6.0\MagazineAPI.Application.deps.json
+C:\Users\user\Documents\Personal Projects\MagazineAPI\MagazineAPI.Application\bin\Debug\net6.0\MagazineAPI.Application.runtimeconfig.json
+C:\Users\user\Documents\Personal Projects\MagazineAPI\MagazineAPI.Application\bin\Debug\net6.0\MagazineAPI.Application.dll
+C:\Users\user\Documents\Personal Projects\MagazineAPI\MagazineAPI.Application\bin\Debug\net6.0\MagazineAPI.Application.pdb
+C:\Users\user\Documents\Personal Projects\MagazineAPI\MagazineAPI.Application\obj\Debug\net6.0\MagazineAPI.Application.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Personal Projects\MagazineAPI\MagazineAPI.Application\obj\Debug\net6.0\MagazineAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Personal Projects\MagazineAPI\MagazineAPI.Application\obj\Debug\net6.0\MagazineAPI.Application.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Personal Projects\MagazineAPI\MagazineAPI.Application\obj\Debug\net6.0\MagazineAPI.Application.AssemblyInfo.cs
+C:\Users\user\Documents\Personal Projects\MagazineAPI\MagazineAPI.Application\obj\Debug\net6.0\MagazineAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Personal Projects\MagazineAPI\MagazineAPI.Application\obj\Debug\net6.0\MagazineAPI.Application.dll
+C:\Users\user\Documents\Personal Projects\MagazineAPI\MagazineAPI.Application\obj\Debug\net6.0\refint\MagazineAPI.Application.dll
+C:\Users\user\Documents\Personal Projects\MagazineAPI\MagazineAPI.Application\obj\Debug\net6.0\MagazineAPI.Application.pdb
+C:\Users\user\Documents\Personal Projects\MagazineAPI\MagazineAPI.Application\obj\Debug\net6.0\MagazineAPI.Application.genruntimeconfig.cache
+C:\Users\user\Documents\Personal Projects\MagazineAPI\MagazineAPI.Application\obj\Debug\net6.0\ref\MagazineAPI.Application.dll
+C:\Users\user\Documents\Personal Projects\MagazineAPI\MagazineAPI.Application\bin\Debug\net6.0\MagazineAPI.Domain.dll
+C:\Users\user\Documents\Personal Projects\MagazineAPI\MagazineAPI.Application\bin\Debug\net6.0\MagazineAPI.Domain.pdb
+C:\Users\user\Documents\Personal Projects\MagazineAPI\MagazineAPI.Application\obj\Debug\net6.0\MagazineAPI.Application.csproj.CopyComplete
